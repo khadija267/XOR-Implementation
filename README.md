@@ -1,2 +1,2 @@
 # XOR-Implementation
-Implementing XOR from NAND and OR Gates
+ XOR from NAND and OR Gates
